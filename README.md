@@ -32,7 +32,7 @@ A terminal or command prompt.
 
 Installation & Execution Clone the repository:
 
-Bash git clone https://github.com/your-username/PlacementPilot.git Navigate to the source directory:
+Bash git clone https://github.com/ananyasharma-dev/Placement-pilot-_Java-project.git Navigate to the source directory:
 
 Bash cd PlacementPilot/src Compile the Java files:
 
